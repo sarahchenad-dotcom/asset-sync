@@ -1,0 +1,4 @@
+id,name,owner,site,status
+AST-1042,build-worker-02,platform,west,active
+AST-1048,edge-router-04,operations,east,active
+AST-1061,archive-store-01,platform,west,maintenance
