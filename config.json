@@ -1,0 +1,5 @@
+{
+  "endpoint": "https://wellsfargo.com/api/v1/assets/inventory",
+  "api_key": "ast_f711b0ff7379c9aa19581f2a2f76f2ac1c5da46dfdb34d5f",
+  "batch_size": 50
+}
